@@ -29,7 +29,7 @@ Pelatihan yang disediakan oleh talenhub dari 16 - 29 mei 2024
 - [API Source](https://fake-coffee-api.vercel.app) : https://fake-coffee-api.vercel.app/api
 
 ## License
-- [MIT License](https://github.com/)
+- [MIT License](https://github.com/arifinhabibi/coffe-shop-fe/blob/main/LICENSE)
 
 ## Constributors
 >:boy: [Muhammad Arifin Habibi](https://www.linkedin.com/in/arifinhabibi)
