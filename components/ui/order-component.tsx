@@ -15,7 +15,7 @@ const countOccurrences = (arr: any, key: string) => {
 
 const OrderComponent = () => {
   const orders = useListOrders((state: any) => state.orders);
-  const setOrder = useListOrders((state: any) => state.setOrder);
+  const clearOrder = useListOrders((state: any) => state.clearData);
   const deleteOrder = useListOrders((state: any) => state.deleteOrder);
   const renderedIds = new Set();
   const { toast } = useToast();
@@ -91,20 +91,11 @@ const OrderComponent = () => {
         ),
       });
     } else {
-      totalPrice = 0;
-      totalTax = 0;
-      totalPayment = 0;
+      clearOrder();
       setFormData({
-        items: [],
-        total_price: 0.0,
-        total_tax: 0.0,
-        total_payment: 0.0,
+        ...formData,
         cash: 0.0,
         change_cash: 0.0,
-      });
-
-      orders.forEach((order: any, index: any) => {
-        deleteOrder(index);
       });
 
       return toast({

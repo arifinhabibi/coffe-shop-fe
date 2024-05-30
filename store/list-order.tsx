@@ -12,6 +12,7 @@ const useListOrders = create((set) => ({
       }
       return { orders: newOrders };
     }),
+  clearData: () => set({ orders: [] }),
 }));
 
 export default useListOrders;
