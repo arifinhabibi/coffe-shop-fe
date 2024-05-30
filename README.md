@@ -36,5 +36,19 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
+# Penggunaan NextJS dalam pembuatan website modern
+Pelatihan yang disediakan oleh talenhub
 
-API Source : https://fake-coffee-api.vercel.app/api
+[Link Task](https://docs.google.com/document/d/1Ie6P6zVuldaSp-8ohlmT_osAPRhp4s8g/edit)
+
+## Tools And Libraries
+- node: 18v
+- heroicons
+- shadcn
+- fontawesome
+- axios
+- zustand
+- prettier
+
+
+- [API Source](https://fake-coffee-api.vercel.app) : https://fake-coffee-api.vercel.app/api
