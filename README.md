@@ -27,3 +27,9 @@ Pelatihan yang disediakan oleh talenhub dari 16 - 29 mei 2024
 - zustand
 - prettier
 - [API Source](https://fake-coffee-api.vercel.app) : https://fake-coffee-api.vercel.app/api
+
+## License
+- [MIT License](https://github.com/)
+
+## Constributors
+>:boy: [Muhammad Arifin Habibi](https://www.linkedin.com/in/arifinhabibi)
