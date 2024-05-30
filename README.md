@@ -1,5 +1,5 @@
 # Penggunaan NextJS dalam pembuatan website modern
-Pelatihan yang disediakan oleh talenhub dari 16 - 29 mei 2024
+Pelatihan yang disediakan oleh talenhub batch 13 dari 16 - 29 mei 2024
 - [Instagram](https://www.instagram.com/talenthub.ind/)
 
 ## Mentoring
